@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **CoolTodo**
 
-- 🌱 I’m currently learning **React,Go,TypeScript**
+- 🌱 I’m currently learning **React,Go,Typescript**
 
-- 💬 Ask me about **Flutter,Dart,JavaScript**
+- 💬 Ask me about **Flutter,Dart,Javascript**
 
 - 📫 How to reach me **amirglmradi@gmail.com**
 
