@@ -7,11 +7,12 @@
 
 - 🔭 I’m currently working on **CoolTodo**
 
-- 🌱 I’m currently learning **React,Go,Typescript**
+- 🌱 I’m currently learning **Javascript,Go,NodeJs**
 
-- 💬 Ask me about **Flutter,Dart,Javascript**
+- 💬 Ask me about **Flutter,Dart,**
 
 - 📫 How to reach me **amirglmradi@gmail.com**
+- **https://bit.ly/m/amir-golmoradi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
