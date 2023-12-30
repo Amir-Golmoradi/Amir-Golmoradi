@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-golmoradi" alt="amir-golmoradi" /></a> </p>
 
-- 🔭 I’m currently working on **CoolTodo**
+- 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **Javascript,Go,NodeJs**
 
 - 💬 Ask me about **Flutter,Dart,**
 
-- 📫 How to reach me **amirglmradi@gmail.com**
+- 📫 How to reach me **ahgolmoradi18@gmail.com**
 - **https://bit.ly/m/amir-golmoradi**
 
 <h3 align="left">Connect with me:</h3>
