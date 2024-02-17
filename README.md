@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Javascript,Go,NodeJs**
+- 🌱 I’m currently learning **Kotlin, Compose, Android**
 
 - 💬 Ask me about **Flutter,Dart,**
 
