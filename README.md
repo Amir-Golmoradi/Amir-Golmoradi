@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-golmoradi" alt="amir-golmoradi" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on ** 2 Contributing Applications with Flutter and Compose**
 
 - 🌱 I’m currently learning **Kotlin, Compose, Android**
 
-- 💬 Ask me about **Flutter,Dart,**
+- 💬 Ask me about **Flutter,Dart**
 
 - 📫 How to reach me **ahgolmoradi18@gmail.com**
 - **https://bit.ly/m/amir-golmoradi**
