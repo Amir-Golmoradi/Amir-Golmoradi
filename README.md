@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Golmoradi</h1>
-<h3 align="center">A passionate Software Developer from Iran</h3>
+<h3 align="center">A passionate Software Engineer from IRAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-golmoradi&label=Profile%20views&color=0e75b6&style=flat" alt="amir-golmoradi" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Compose, Android**
 
-- 💬 Ask me about **Flutter,Dart**
+- 💬 Ask me about **Flutter,Dart,Js**
 
 - 📫 How to reach me **ahgolmoradi18@gmail.com**
 - **https://bit.ly/m/amir-golmoradi**
