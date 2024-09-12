@@ -12,7 +12,7 @@
 - 💬 Ask me about **Flutter,Dart,Js**
 
 - 📫 How to reach me **ahgolmoradi18@gmail.com**
-- **https://bit.ly/m/amir-golmoradi**
+- **https://portfolly.io/amir-golmoradi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
