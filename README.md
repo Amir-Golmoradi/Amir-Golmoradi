@@ -1,25 +1,34 @@
-<h1 align="center">Hi 👋, I'm Amir Golmoradi</h1>
-<h3 align="center">A passionate Software Engineer from IRAN</h3>
+# Hi there, I'm Amir Golmoradi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-golmoradi&label=Profile%20views&color=0e75b6&style=flat" alt="amir-golmoradi" /> </p>
+## 🚀 About Me
+I'm a Backend engineer specializing in Java and Go frameworks. I have a strong passion for creating secure solutions and solving complex challenges. I have written several repositories that could be helpful to the developer community.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-golmoradi" alt="amir-golmoradi" /></a> </p>
+## 🛠️ Tech Stack
+- **Languages**: Experienced with various programming languages due to my computer science background, but my main focus is on Spring Boot and Golang.
+- **Frameworks**:  
+  - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+  
+  
+- **Databases**:
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ** 2 Contributing Applications with Flutter and Compose**
+## 🔥 Current Projects
+- **[Rozhano](https://github.com/blvchain)**: Developing a Online Multi-Service E-commerce Platform with Spring boot.
+- **Open-Source Repositories**:
 
-- 🌱 I’m currently learning **Kotlin, Compose, Android**
 
-- 💬 Ask me about **Flutter,Dart,Js**
 
-- 📫 How to reach me **ahgolmoradi18@gmail.com**
-- **https://portfolly.io/amir-golmoradi**
+## 🎯 Goals & Interests
+- **Learning Goals**: Dive deeper into data handling methods and attack prevention to create more secure systems.
+- **Passionate About**: Blockchain, Low-level system, and building lightweight, resource-efficient applications with high security.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/amirglmradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirglmradi" height="30" width="40" /></a>
-</p>
+## 💬 Fun Fact
+Programming is not just a job for me; it's my way of life. I live and breathe coding.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-golmoradi&show_icons=true&locale=en&layout=compact" alt="amir-golmoradi" /></p>
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahgolmoradi12@gmail.com)
