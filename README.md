@@ -1,7 +1,7 @@
 # Hi there, I'm Amir Golmoradi 👋
 
 ## 🚀 About Me
-I'm a Backend engineer specializing in Java and Go frameworks. I have a strong passion for creating secure solutions and solving complex challenges. I have written several repositories that could be helpful to the developer community.
+I'm a Backend engineer specializing in Java and Spring framework. I have a strong passion for creating secure solutions and solving complex challenges. I have written several repositories that could be helpful to the developer community.
 
 ## 🛠️ Tech Stack
 - **Languages**: Experienced with various programming languages due to my computer science background, but my main focus is on Spring Boot and Golang.
@@ -24,8 +24,8 @@ I'm a Backend engineer specializing in Java and Go frameworks. I have a strong p
 
 
 ## 🎯 Goals & Interests
-- **Learning Goals**: Dive deeper into data handling methods and attack prevention to create more secure systems.
-- **Passionate About**: Blockchain, Low-level system, and building lightweight, resource-efficient applications with high security.
+- **Learning Goals**: Dive deeper into data handling methods and attack prevention to create more secure software systems.
+- **Passionate About**: Backend, Low-level system, Cloud Systems, and building lightweight, resource-efficient applications with high security.
 
 ## 💬 Fun Fact
 Programming is not just a job for me; it's my way of life. I live and breathe coding.
