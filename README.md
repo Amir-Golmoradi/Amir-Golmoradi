@@ -1,7 +1,7 @@
 # Hi there, I'm Amir Golmoradi 👋
 
 ## 🚀 About Me
-I am a Backend Engineer passionate about designing and implementing highly scalable and robust systems using Java, Python, Golang, and TypeScript. With a strong focus on modern microservices architectures, I bring deep expertise in SQL/NoSQL databases, Docker, and CI/CD pipelines. My goal is to deliver solutions that enhance performance, ensure reliability, and foster innovation at scale.
+I am a Backend Developer passionate about designing and implementing highly scalable and safe systems using Java and Golang. With a strong focus on modern microservices architectures, I bring deep expertise in SQL/NoSQL databases and Docker. My goal is to deliver solutions that enhance performance, ensure reliability, and foster innovation at scale.
 
 ## 🛠️ Tech Stack
 - **Languages**: Experienced with various programming languages due to my computer science background, but my main focus is on Spring Boot and Golang.
