@@ -8,22 +8,18 @@ I am a Backend Engineer passionate about designing and implementing highly scala
 - **Frameworks**:  
   - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
   - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-  - ![SQL](https://img.shields.io/badge/sql-%2300D09C.svg?style=for-the-badge&logo=databricks&logoColor=white)
-  - ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-  - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+ 
     
 - **Databases**:
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🔥 Current Projects
 - **[Rozhano](https://github.com/Amir-Golmoradi/Rozhano)**: Developing a Online Multi-Service E-commerce Platform with Spring boot.
 - **Open-Source Repositories**:
-- [Coach](https://github.com/PersianFlutter/coach.git): I design and develop the backend of this project with Java and Spring Framework.
+- [Coach](https://github.com/PersianFlutter/coach.git): I design and develop the backend of this project with Go Language.
 
 
 
