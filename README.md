@@ -70,8 +70,11 @@
 - Exploring **Data Engineering** with Apache Kafka and Spark.  
 
 
-💸 Fuel My Journey, Shape the Future ✨
-Support isn’t just a donation — it’s the ignition for a revolutionary future. Every dollar you invest accelerates the creation of groundbreaking systems that scale and transform industries. Together, we’re not just building tech; we’re reshaping the world. Let’s make the future happen.
+## 💸 **Fuel My Journey, Shape the Future** ✨
+
+ Support isn’t just a donation — it’s the ignition for a revolutionary future. Every dollar you invest accelerates the creation of 
+ groundbreaking systems that scale and transform industries. Together, we’re not just building tech; we’re reshaping the world. 
+ Let’s make the future happen.
 
 💱 Currencies I Work With
  - [![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#)
