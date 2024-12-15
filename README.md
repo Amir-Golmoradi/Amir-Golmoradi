@@ -11,7 +11,7 @@
 ### 🖥️ **Languages**  
 - [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)  
 - [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)  
-- [![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)](#)  
+ 
 
 ### 📚 **Frameworks**  
 - [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)  
@@ -41,8 +41,6 @@
 
 ### 🛠️ **Coding Tools**  
 - [![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white)](#)  
-- [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?logo=visual-studio&logoColor=white)](#)  
-- [![GoLand](https://img.shields.io/badge/GoLand-%23000.svg?logo=goland&logoColor=white)](#)
 - [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 - [![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
 
@@ -63,6 +61,10 @@
 - **Spring Boot** | **Microservices**  
 - Scalable **order management** platform for enterprise businesses.  
 
+### **Coach: AI-driven Fitness App**  
+- **Asp.NET** | **Serverless**  
+- **Coming Soon: Open-Source Solution**  
+> *Building Next-Gen Fitness Application for the modern world.* 
 
 ## 🎯 **Goals**  
 - **Front-End Engineering** to master modern UX/UI design.  
