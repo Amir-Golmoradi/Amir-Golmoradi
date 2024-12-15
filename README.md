@@ -63,7 +63,7 @@
 
 ### **Coach: AI-driven Fitness App**  
 - **Asp.NET** | **Serverless**  
-- **Coming Soon: Open-Source Solution**  
+- **https://github.com/Amir-Golmoradi/Coach** 
 > *Building Next-Gen Fitness Application for the modern world.* 
 
 ## 🎯 **Goals**  
