@@ -78,7 +78,8 @@ A highly resilient and scalable banking system built for the future. Ensuring sm
 ![Java](https://img.shields.io/badge/Java%2017-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=springboot&logoColor=white) ![WebHook](https://img.shields.io/badge/WebHook-%231E6C6E?logo=webhooks&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-%234C9CFF?logo=socket.io&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-%23635bff?logo=stripe&logoColor=white)
 
 **[Empor website](https://www.empor.ca/)**  
-A scalable order management system designed specifically for student transactions, allowing for seamless commerce in Canada's first marketplace tailored for students.
+Empor is Canada's first student-exclusive marketplace. 
+Our platform enables students to exchange pre-loved goods within a trusted, user-verified community.
 
 ---
 
