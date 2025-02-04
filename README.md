@@ -12,7 +12,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 🖥️ **Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%235C2D91.svg?logo=&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%235C2D91.svg?logo=&logoColor=white)
 
 ---
 
@@ -24,7 +24,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 📚 **Frameworks & Stacks**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%234ea94b.svg?logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?logo=dotnet&logoColor=white)
 
 ---
 
@@ -83,7 +83,7 @@ Our platform enables students to exchange pre-loved goods within a trusted, user
 
 ---
 
-#### **Coach: AI-Driven Fitness App**
+#### **Coach: AI-Driven Fitness and Wellness App**
 
 **Tech Stack**:
 
