@@ -12,7 +12,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 🖥️ **Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%232496ED.svg?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white)
 
 ---
 
@@ -24,7 +24,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 📚 **Frameworks & Stacks**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![React](https://img.shields.io/badge/React-%232496ED.svg?logo=react&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white)
 
 ---
 
