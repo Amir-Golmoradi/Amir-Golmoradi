@@ -12,7 +12,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 🖥️ **Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%235C2D91.svg?logo=&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%232496ED.svg?logo=typescript&logoColor=white)
 
 ---
 
@@ -24,7 +24,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 📚 **Frameworks & Stacks**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91.svg?logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![React](https://img.shields.io/badge/React-%232496ED.svg?logo=react&logoColor=white)
 
 ---
 
@@ -42,14 +42,14 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 🧪 **Testing & API Tools**
 
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?logo=junit5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff) ![Swagger](https://img.shields.io/badge/Swagger-%237ABF7E?logo=swagger&logoColor=white) ![xUnit](https://img.shields.io/badge/xUnit.NET-%235C2D91.svg?logo=.net&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?logo=junit5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff) ![Swagger](https://img.shields.io/badge/Swagger-%237ABF7E?logo=swagger&logoColor=white) 
 
 ---
 
 ## 💻 **Tools & Editors**  
 
 ### 🛠️ **Coding Tools**  
-[![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23FF315C.svg?logo=intellij-idea&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![WebStorm](https://img.shields.io/badge/WebStorm-F0EB1E?logo=webstorm&logoColor=000)](#) [![GoLand](https://img.shields.io/badge/Goland-B80FFA?logo=goland&logoColor=fff)](#)
 
 
 
@@ -95,9 +95,9 @@ An AI-powered fitness application that helps users optimize their workout routin
 ---
 
 ## 🎯 **Goals**  
-- Master **Backend Engineering** to design and implement advanced architectures and systems.
-- Build **high-performance systems** with a focus on scalability and low latency.
-- Dive deeper into **Data Engineering** with tools like **Apache Kafka** and **Apache Spark** for handling big data and real-time processing.
+- Master **Backend Engineering** to design high-performance systems with minimal resource consumption.
+- Architect **scalable and fault-tolerant distributed** systems to handle millions of concurrent users efficiently.
+- Optimize **database performance** and query execution to ensure lightning-fast data retrieval at scale.
 
 ---
 
