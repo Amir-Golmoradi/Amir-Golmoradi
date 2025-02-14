@@ -48,7 +48,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 ## 💻 **Tools & Editors**  
 
 ### 🛠️ **Coding Tools**  
-[![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23FF315C.svg?logo=intellij-idea&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![WebStorm](https://img.shields.io/badge/WebStorm-F0EB1E?logo=webstorm&logoColor=000)](#) [![GoLand](https://img.shields.io/badge/Goland-B80FFA?logo=goland&logoColor=fff)](#)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23FF315C.svg?logo=intellij-idea&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![WebStorm](https://img.shields.io/badge/WebStorm-F0EB1E?logo=webstorm&logoColor=000)](#) [![DataGrip](https://img.shields.io/badge/DataGrip-B80FFA?logo=datagrip&logoColor=fff)](#)
 
 
 
