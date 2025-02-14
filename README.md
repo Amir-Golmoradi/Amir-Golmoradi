@@ -12,19 +12,18 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 ### 🖥️ **Languages**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) 
+
+---
+### 📚 **Frameworks & Stacks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) 
 
 ---
 
 ### 🏗️ **Architecture**
 
 ![Domain-Driven Design](https://img.shields.io/badge/Domain%20Driven%20Design-%233E7DAB.svg?&logoColor=white) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%238B5B91.svg?logo=java&logoColor=white) ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-%23716C91.svg?logo=java&logoColor=white)
-
----
-
-### 📚 **Frameworks & Stacks**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![Go](https://img.shields.io/badge/Go-2496ED?logo=go&logoColor=white)
 
 ---
 
@@ -64,7 +63,7 @@ Any great digital experience is only as strong as the backend that powers it. Wi
 
 **Tech Stack**:
 
-![Java](https://img.shields.io/badge/Java%2021-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23%2010-%235C2D91.svg?logo=&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-%233e9bde?logo=grpc&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-%23616f89?logo=docker&logoColor=white) ![TDD](https://img.shields.io/badge/TDD-%23e53935?logo=jest&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-%233E7DAB?logo=github&logoColor=white) ![MFA](https://img.shields.io/badge/MFA-%2300A8FF?logo=auth0&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2021-%23ED8B00.svg?logo=openjdk&logoColor=white)  ![gRPC](https://img.shields.io/badge/gRPC-%233e9bde?logo=grpc&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-%23616f89?logo=docker&logoColor=white) ![TDD](https://img.shields.io/badge/TDD-%23e53935?logo=jest&logoColor=white) ![DDD](https://img.shields.io/badge/DDD-%233E7DAB?logo=github&logoColor=white) ![MFA](https://img.shields.io/badge/MFA-%2300A8FF?logo=auth0&logoColor=white)
 
 **Private Project | Code Learn Company**  
 A highly resilient and scalable banking system built for the future. Ensuring smooth and secure financial transactions, even in distributed environments.
